@@ -2,7 +2,7 @@
 
 Sistema de gestión de propiedades turísticas desarrollado con React y Vite.
 
-## 📋 Descripción
+##  Descripción
 
 PropertyHub es una aplicación web completa para la gestión de propiedades turísticas que permite a los usuarios:
 
@@ -13,7 +13,7 @@ PropertyHub es una aplicación web completa para la gestión de propiedades tur�
 - ✅ Panel de administración para usuarios admin
 - ✅ Gestión de perfil y configuración
 
-## 🚀 Instalación y Configuración
+##  Instalación y Configuración
 
 ### Prerrequisitos
 
@@ -50,7 +50,7 @@ La aplicación se abrirá automáticamente en tu navegador en la dirección:
 http://localhost:5173
 ```
 
-## 🎯 Uso de la Aplicación
+##  Uso de la Aplicación
 
 ### Primera vez:
 1. Haz clic en "Crear Cuenta" para registrarte
@@ -67,7 +67,7 @@ http://localhost:5173
 - **Perfil**: Actualizar tu información personal
 - **Panel Admin**: (Solo para administradores) Ver todas las propiedades del sistema
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **React 19.2.0** - Biblioteca de interfaz de usuario
 - **Vite 7.2.7** - Build tool y dev server
@@ -75,7 +75,7 @@ http://localhost:5173
 - **Context API** - Gestión de estado global
 - **localStorage** - Persistencia de datos en el navegador
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 my-app/
@@ -104,13 +104,13 @@ my-app/
 └── vite.config.js         # Configuración de Vite
 ```
 
-## 🎨 Paleta de Colores
+##  Paleta de Colores
 
 - **#FDFFFC** - Fondo principal (off-white)
 - **#00635D** - Color primario (dark teal)
 - **#08A4BD** - Color de acento (bright cyan)
 
-## 📝 Scripts Disponibles
+##  Scripts Disponibles
 
 ```bash
 # Iniciar servidor de desarrollo
