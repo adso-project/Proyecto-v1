@@ -1,10 +1,10 @@
-# PropertyHub 🏠
+# 🏡 Soul - ADSO Real Estate - Frontend
 
 Sistema de gestión de propiedades turísticas desarrollado con React y Vite.
 
 ##  Descripción
 
-PropertyHub es una aplicación web completa para la gestión de propiedades turísticas que permite a los usuarios:
+Soul - ADSO Real Estate - Frontend es una aplicación web completa para la gestión de propiedades turísticas que permite a los usuarios:
 
 - ✅ Registrar y autenticar usuarios
 - ✅ Gestionar propiedades (Agregar, Editar, Eliminar)
@@ -12,6 +12,13 @@ PropertyHub es una aplicación web completa para la gestión de propiedades tur�
 - ✅ Configurar precios personalizados por fechas
 - ✅ Panel de administración para usuarios admin
 - ✅ Gestión de perfil y configuración
+
+## 👤 Contribuidores
+
+*   **Juliana Sarmiento:** Ficha 3070187
+*   **Luis Benítez:**      Ficha 3070185
+*   **William Ortiz:**     Ficha 3070187
+
 
 ##  Instalación y Configuración
 
@@ -125,9 +132,3 @@ npm run preview
 # Ejecutar linter
 npm run lint
 ```
-
-##  Colaboradores
-
-Este proyecto es desarrollado por el equipo ADSO Project.
-
-
